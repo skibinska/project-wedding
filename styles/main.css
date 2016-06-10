@@ -1,0 +1,36 @@
+.navbar-brand {
+    background-color: #f3f2f2;
+    height: 100px;
+}
+
+/*.photo {*/
+/*background-position: right bottom;*/
+/*position: absolute;*/
+/*right: 45%;*/
+/*width: 100%;*/
+/*height: 567px;*/
+/*z-index: 1;*/
+/*}*/
+
+#content .section-1 {
+    background-color: #ebecee;
+}
+
+.aneta-tomek {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    padding-top: 35%;
+}
+
+.big-names {
+    font-size: 75px;
+}
+
+.small-words {
+    font-size: 50px;
+}
+
+.aneta-tomek p.small-words:last-child {
+    margin-top: 20%;
+    font-size: 45px;
+}

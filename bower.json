@@ -1,0 +1,21 @@
+{
+  "name": "project-wedding",
+  "homepage": "https://github.com/skibinska/project-wedding",
+  "authors": [
+    "ewelina <skibinska.ewelina@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
